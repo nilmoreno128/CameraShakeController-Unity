@@ -8,7 +8,7 @@ A Unity script designed to add shake effects to your camera, enhancing the playe
 - **Triggerable Events**: Control the shake through code, making it easy to activate during specific events like collisions, explosions, or key actions in the game.
 
 ## Installation  
-1. Download the `CameraShakeController.unitypackage` file from this repository.  
+1. Download the [`CameraShakeController.unitypackage`](CameraShakeController.unitypackage) file from this repository.  
 2. Open your Unity project and go to **Assets > Import Package > Custom Package**.  
 3. Select the `CameraShakeController.unitypackage` file and click **Import**.  
 4. After importing, attach the `CameraShakeController` script to your main camera in the scene.  
